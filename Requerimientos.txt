@@ -1,0 +1,44 @@
+Ingreso
+
+1.1	El programa debe permitir que el usuario sea recibido por un menú que le indique las posibles rutas (iniciar sesión o crear un nuevo usuario) para el ingreso.
+
+1.2	El programa debe permitir que el usuario cree un nuevo usuario con nombre, correo y contraseña.
+
+1.3	El programa debe permitir que los usuarios registrados puedan ingresar con su correo y la contraseña.
+
+1.4	Si el correo y contraseña son correctos, el programa debe permitir al usuario ingresar por defecto al menú de categorías de sus productos.
+
+
+
+Clientes
+
+2.1 El programa debe permitirle al usuario ver listados los clientes registrados en el negocio con nombres, apellidos, teléfono, correo y dirección.
+
+2.2 El programa debe permitir que el usuario agregue nuevos usuarios a la lista.
+
+2.3 El programa debe permitir que el usuario modifique la información de un cliente.
+
+2.4 El programa debe permitir que el usuario elimine a un cliente de la lista.
+
+
+
+Categorías
+
+3.1 El programa debe permitirle al usuario ver listadas las categorías de productos disponibles en su negocio.
+
+3.2 El programa debe permitir que el usuario cree una nueva categoría con nombre e imagen representativa de la categoría.
+
+3.3 El programa debe permitir que el usuario editar una categoría.
+
+3.4 El programa debe permitir que el usuario borrar una categoría.
+
+
+Productos
+
+4.1 El programa debe permitir que el usuario pueda ver los productos disponibles para cada categoría.
+
+4.2 El programa debe permitir que el usuario ingrese un nuevo producto a una categoría.
+
+4.3 El programa debe permitir que el usuario modifique los datos de un producto en una categoría.
+
+4.4 El programa debe permitir que el usuario elimine un producto de una categoría.
